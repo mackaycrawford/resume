@@ -1,7 +1,7 @@
 body{
 	
 	font-family: calibri; 
-	font-size: 14px; /* can be 15px for 11 pt font still */
+	font-size: 12px; /* can be 15px for 11 pt font still */
 }
 
 #header{
@@ -12,17 +12,17 @@ body{
 }
 
 #contactSection{
-	font-size: 15px;
+	font-size: 12px;
 	text-align: center; 
 }
 
 .sectionTitle{
-	font-size: 16px; 
+	font-size: 14px; 
 	font-weight: bold; 
 }
 
 .jobOverview{
-	font-size: 15px; 
+	font-size: 12px; 
 	font-weight: bold;
 }
 
@@ -33,6 +33,10 @@ body{
 
 .jobCompany {
 	text-align: center; 
+}
+
+.jobTitle{
+
 }
 
 .jobDates{
