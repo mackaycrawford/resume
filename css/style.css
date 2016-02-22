@@ -1,28 +1,28 @@
 body{
 	
 	font-family: calibri; 
-	font-size: 12px; /* can be 15px for 11 pt font still */
+	font-size: 13px; /* can be 15px for 11 pt font still */
 }
 
 #header{
-	height: 10px; 
+	height: 20px; 
 }
 #footer{
 	height: 10px; 
 }
 
 #contactSection{
-	font-size: 12px;
+	font-size: 13px;
 	text-align: center; 
 }
 
 .sectionTitle{
-	font-size: 14px; 
+	font-size: 15px; 
 	font-weight: bold; 
 }
 
 .jobOverview{
-	font-size: 12px; 
+	font-size: 13px; 
 	font-weight: bold;
 }
 
@@ -50,13 +50,13 @@ body{
 #leftRail{
 	position: relative; 
 	float: left;
-	width: 5%; 
+	width: 8%; 
 	color: white;
 }
 #rightRail{
 	position: relative; 
 	float: left;
-	width: 5%; 
+	width: 8%; 
 	color: white;
 }
 #content{
@@ -64,4 +64,11 @@ body{
 	float: left;
 	margin: 0 auto;
 	width: 80%; 	
+}
+.jobDescription{
+
+}
+
+.jobDetails{
+
 }
